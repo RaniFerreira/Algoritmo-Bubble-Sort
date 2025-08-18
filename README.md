@@ -27,5 +27,16 @@ Este projeto inclui uma função que:
 
 ## 🚀 Testes 
 ### Teste com 10 elementos:
-* Tempo de execução : 0.0000segundos
-  ![Descrição da imagem](images/nome-da-imagem.png)
+* Tempo de execução : 0.0000 segundos
+  
+  ![Descrição da imagem](img/teste1.png)
+
+### Teste com 100 elementos:
+* Tempo de execução : 0.0003 segundos
+  
+  ![Descrição da imagem](img/teste2.png)
+
+### Teste com 1000 elementos:
+* Tempo de execução : 0.0473 segundos
+  
+  ![Descrição da imagem](img/teste3.png)
