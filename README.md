@@ -20,8 +20,14 @@ Este projeto inclui uma função que:
 ## ⚡ Funcionalidades
 
 - Ordenação de listas de inteiros.
+- 
+  ![Descrição da imagem](img/b.png)
+  
 - Testes automáticos com tamanhos diferentes: 10, 100, 1000 elementos.
 - Medição do tempo de execução do algoritmo.
+- 
+  ![Descrição da imagem](img/testar.png)
+  
 
 ---
 
